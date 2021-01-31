@@ -15,6 +15,7 @@
         'unzip', 
         'rsync', 
         'screen', 
+        'unattended-upgrades'
       ]
       state: present
       update_cache: yes
