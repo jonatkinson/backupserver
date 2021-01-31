@@ -9,6 +9,7 @@
     apt:
       name: [
         'borgbackup', 
+        'nfs-common',
         'htop', 
         'neovim', 
         'wget', 
